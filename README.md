@@ -16,3 +16,4 @@ Verificar la Instalación:
 Copiar código
 elixir -v
 
+/tmp/tmpjc3tdpgf-ascii.cast
