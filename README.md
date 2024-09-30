@@ -22,8 +22,13 @@ Copiar código
 elixir -v
 
 c("sistema_de_gestion.ex")
+
 sistema = %SistemaDeGestion{}
+
 sistema = SistemaDeGestion.agregar_usuario(sistema, "Carlos")
+
 SistemaDeGestion.listar_usuarios(sistema)
+
+sistema = SistemaDeGestion.eliminar_usuario(sistema, "Carlos")
 
 /tmp/tmpjc3tdpgf-ascii.cast
