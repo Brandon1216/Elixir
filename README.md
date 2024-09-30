@@ -1,4 +1,4 @@
-#Instalacion de elixir
+# Instalacion de elixir
 
 ## miembros
 Orozco Hernandez Brandon 
