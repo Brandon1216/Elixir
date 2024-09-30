@@ -2,6 +2,7 @@
 
 ## Miembros
 Orozco Hernandez Brandon 
+Ruiz Pacheco Daniel Ivan
 
 ## Tutorial 
 1-Descargar Elixir:
