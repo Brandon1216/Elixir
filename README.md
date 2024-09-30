@@ -1,8 +1,9 @@
 # Instalacion de elixir
 
-## miembros
+## Miembros
 Orozco Hernandez Brandon 
 
+## Tutorial 
 1-Descargar Elixir:
 Ve al sitio oficial de Elixir: https://elixir-lang.org/install.html.
 Descarga el instalador para Windows desde la opción sugerida en la página.
